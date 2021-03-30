@@ -1,0 +1,2 @@
+# image-classificatioin
+MINOR PROJECT
